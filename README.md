@@ -17,4 +17,4 @@ A simple and responsive weather app built with JavaScript, Tailwind CSS, Html an
 
 ## 🔗 Live 
 
-[Click here to view](https://your-live-link.com)
+[Click here to view](https://weather-app-sand-chi-55.vercel.app/)
