@@ -1,6 +1,6 @@
 # Weather App
 
-A simple and responsive weather app built with JavaScript, Tailwind CSS, and Weather API.
+A simple and responsive weather app built with JavaScript, Tailwind CSS, Html and Weather API.
 
 ## ✅ Features
 
