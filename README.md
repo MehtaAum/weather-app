@@ -15,6 +15,6 @@ A simple and responsive weather app built with JavaScript, Tailwind CSS, Html an
 - HTML, Tailwind CSS, JavaScript
 - Weather API, Chart.js, Google Maps
 
-## 🔗 Live Demo
+## 🔗 Live 
 
 [Click here to view](https://your-live-link.com)
